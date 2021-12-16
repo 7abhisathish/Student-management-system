@@ -23,7 +23,7 @@ while($row = mysql_fetch_array($res)){
     <body>
 			  <div class="header"><h1>Student Management System</h1></div>
 			  <div class="divtopcorner">
-				    <img src="../../source/logo.jpg" height="150" width="150" alt="student Management System"/>
+				    <img src="../../source/logo.jpg" height="150" width="150" alt="Student Management System"/>
 				</div>
 			<br/><br/>
 				<ul>
